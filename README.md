@@ -15,11 +15,10 @@ This repository contains a comprehensive data science project aimed at forecasti
 ### 2. **Data Preprocessing**
    - Handled missing values and outliers to ensure data integrity.
    - Normalized and scaled features for better model performance.
-   - Created additional features (if applicable) such as time-based features or aggregated metrics.
+   - Created additional features such as time-based features or aggregated metrics.
 
 ### 3. **Feature Engineering**
    - Extracted meaningful features from the dataset to improve the model's predictive power.
-   - Employed techniques such as moving averages, lag features, and Fourier transformations for time-series analysis.
 
 ### 4. **Model Implementation**
    - Built predictive models using machine learning algorithms such as Random Forest, XGBoost, or any other models explored.
