@@ -59,7 +59,7 @@ This project provides an in-depth analysis of energy consumption across multiple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/energy-consumption-forecasting.git
+   git clone https://github.com/KarthikMahalingam8881/energy-consumption-forecasting.git
 
 
 ## Results
